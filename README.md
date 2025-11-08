@@ -100,9 +100,9 @@
 
 ### ☕ Контакты
 
-- 📫 **Email:** your.email@example.com  
-- 🌐 **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)  
-- 💬 **Telegram:** [@your_nickname](https://t.me/your_nickname)
+- 📫 **Email:** not used
+- 🌐 **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/NortherHush)  
+- 💬 **Telegram:** [@your_nickname](https://t.me/https://meowmeowmez)
 
 ---
 
