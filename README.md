@@ -101,8 +101,8 @@
 ### ☕ Контакты
 
 - 📫 **Email:** not used
-- 🌐 **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/NortherHush)  
-- 💬 **Telegram:** [@your_nickname](https://t.me/https://meowmeowmez)
+- 🌐 **GitHub:** [github.com/NortherHush](https://github.com/NortherHush)  
+- 💬 **Telegram:** [@meowmeowmez](https://t.me/https://meowmeowmez)
 
 ---
 
