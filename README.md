@@ -101,9 +101,9 @@ root 7777 60.0 bash_loop monitoring_daemon
 ## ☕ Contact Me
 
 <p align="center"> 
-<a href="mailto:meshoff@proton.me"><img src="https://img.shields.io/badge/Email-%2300f7ff.svg?&style=for-the-badge&logo=gmail&logoColor=black" /></a> 
-<a href="https://t.me/@meowmeowmez"><img src="https://img.shields.io/badge/Telegram-%2300f7ff.svg?&style=for-the-badge&logo=telegram&logoColor=black" /></a> 
-<a href="https://github.com/NothernHush"><img src="https://img.shields.io/badge/GitHub-%2300f7ff.svg?&style=for-the-badge&logo=github&logoColor=black" /></a>
+<a href="mailto:wientonw@gmail.com"><img src="https://img.shields.io/badge/Email-%2300f7ff.svg?&style=for-the-badge&logo=gmail&logoColor=black" /></a> 
+<a href="https://t.me/@wienton"><img src="https://img.shields.io/badge/Telegram-%2300f7ff.svg?&style=for-the-badge&logo=telegram&logoColor=black" /></a> 
+<a href="https://github.com/wienton"><img src="https://img.shields.io/badge/GitHub-%2300f7ff.svg?&style=for-the-badge&logo=github&logoColor=black" /></a>
 </p>
 
 <p align="center"> 
