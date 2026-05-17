@@ -17,13 +17,6 @@
 
 ---
 
-<p align="center">
-  <b>Systems Engineer</b> · Low-Level Dev · Kernel Internals · Performance Engineering
-</p>
-
-<p align="center">
-  <i>Author of <a href="https://github.com/alexvoste/ForgeZero"><b>ForgeZero (fz)</b></a> — Zero-overhead build automation for Assembler & C.</i>
-</p>
 
 <br/>
 
