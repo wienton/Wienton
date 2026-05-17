@@ -1,29 +1,57 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0f0c29,100:302b63&text=AlexVoste&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Systems%20Engineer%20%7C%20Toolchain%20Architect&descSize=18&descColor=888888" width="100%"/>
+<table>
+  <tr>
+    <td width="200">
+      <!-- Замени ссылку на свою аватарку или логотип ForgeZero -->
+      <img src="https://github.com/alexvoste.png" width="150" style="border-radius: 50%;" alt="Avatar"/>
+    </td>
+    <td>
+      <h3>Hi there! 👋</h3>
+      <p>
+        I'm <b>AlexVoste</b>, a Systems Engineer focused on low-level development, kernel internals, and toolchain architecture.
+      </p>
+      <p>
+        I love turning hardware constraints into efficient, zero-overhead code in <b>C</b> and <b>Assembly</b>. Whether it's optimizing io_uring pipelines, diving into eBPF, or building custom kernels, I'm all about performance and control.
+      </p>
+      <p>
+         <b>Currently building:</b> 
+        <a href="https://github.com/alexvoste/ForgeZero"><b>ForgeZero</b></a> — a zero-overhead build automation tool for Assembler and C projects.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Outside of code 💻
+When I'm not debugging kernel panics or wrestling with POSIX sockets, you'll find me:
+-  Tinkering with custom Linux kernel configurations.
+- 📚 Reading documentation for fun (yes, really).
+- ☕ Optimizing my coffee brewing process for maximum caffeine extraction.
+
+---
+
+### 🌟 Fun Facts
+- 💡 I believe "zero overhead" is a lifestyle, not just a compiler flag.
+- 🐛 My debugger of choice is `gdb`, and my rubber duck is a mechanical keyboard.
+- 🚀 I once replaced a library call with 3 lines of inline asm and saved 0.0001ms. I felt alive.
+
+---
+
+<p align="left">
+  <a href="mailto:k13775638@gmail.com">
+    <img src="https://img.shields.io/badge/Email-k13775638-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://alexvoste.duckdns.org">
+    <img src="https://img.shields.io/badge/Web-Portfolio-212121?style=flat-square&logo=google-chrome&logoColor=white" alt="Web" />
+  </a>
+  <a href="https://github.com/alexvoste">
+    <img src="https://img.shields.io/badge/GitHub-@alexvoste-333?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Assembly-FFA500?style=for-the-badge&logo=nasm&logoColor=white" alt="Assembly" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ForgeZero-39c78f?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwMCI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01em0wIDlMMiA3djEwbDEwIDUgMTAtNVY3TDEyIDExem0wIDIuNkwyMSAxM2wtOSA1LTktNWw5LTQuNHoiLz48L3N2Zz4=" alt="ForgeZero" />
-  <img src="https://img.shields.io/badge/io_uring-FF6B6B?style=for-the-badge" alt="io_uring" />
-  <img src="https://img.shields.io/badge/eBPF-4ECDC4?style=for-the-badge" alt="eBPF" />
-</p>
-
----
-
-
-<br/>
-
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexvoste&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvoste&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="150" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexvoste&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvoste&layout=compact&theme=radical&hide_border=true" height="150" alt="langs" />
 </p>
