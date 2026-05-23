@@ -1,22 +1,18 @@
 <div align="center">
 
+<img src="https://i.ibb.co/h1L0ZW57/illustration-anime-character-rain.jpg" height="220" /><br>
+
 # Alex Voste
 
-systems engineer
+`/acme/alex`
 
-building **ForgeZero**  
-_zero-overhead build automation_
+Systems engineer.
 
-<br>
+Building forgezero.  
+Zero-overhead build automation.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,go,rust,linux,neovim" />
-</p>
+`focus: low-level · performance · privacy`
 
-low-level infrastructure · systems programming · privacy
-
-<br>
-
-`alexvostedev@proton.me`
+[wienton.ru](https://wienton.ru)
 
 </div>
