@@ -1,18 +1,23 @@
 <div align="center">
 
-<img src="https://i.ibb.co/h1L0ZW57/illustration-anime-character-rain.jpg" height="220" /><br>
+<img src="https://i.ibb.co/h1L0ZW57/illustration-anime-character-rain.jpg" width="320" />
 
 # Alex Voste
 
 `/acme/alex`
 
-Systems engineer.
+Systems engineer from Sweden.
 
-Building forgezero.  
-Zero-overhead build automation.
+Building **forgezero**.  
+A zero-overhead build system for C, C++, and assembly.
 
-`focus: low-level · performance · privacy`
+Languages: C, Go, Rust, Assembly.  
+Systems: Linux, Plan 9.  
+Editor: Neovim.
 
-[wienton.ru](https://wienton.ru)
+Interested in low-level systems,  
+performance engineering, and privacy.
+
+<wienton.ru>
 
 </div>
