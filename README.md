@@ -18,6 +18,4 @@ Editor: Neovim.
 Interested in low-level systems,  
 performance engineering, and privacy.
 
-<wienton.ru>
-
 </div>
