@@ -6,7 +6,7 @@
 
 `/acme/alex`
 
-Systems engineer from Sweden.
+Systems engineer from Russia.
 
 Building **forgezero**.  
 A zero-overhead build system for C, C++, and assembly.
