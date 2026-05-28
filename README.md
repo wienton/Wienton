@@ -6,7 +6,7 @@
 
 `non nobis, Domine, non nobis, sed nomini tuo da Gloriam`
 
-*systems engineer / low-level developer*
+*hardcore systems engineer / low-level developer from Russia*
 
 ---
 
