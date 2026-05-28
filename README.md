@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/h1L0ZW57/illustration-anime-character-rain.jpg" width="300" />
+<img src="https://i.ibb.co/3yHWMRfr/wp8935372-tokyo-rain-wallpapers.jpg" width="600" style="border-radius: 4px;" />
 
 # alex voste
 
